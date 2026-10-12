@@ -1,20 +1,19 @@
-
 # 🚗 BMW Sales Dashboard | Power BI Portfolio Project
 
 ## 1. 📊 Interactive Dashboard Overview
 
-![Overview](dashboards/overview.png)
+![Overview](overview.png.png)
 
 Model pages:
 
-![M3](dashboards/m3.png)
-![M5](dashboards/m5.png)
-![X1](dashboards/x1.png)
-![X3](dashboards/x3.png)
-![X5](dashboards/x5.png)
-![X6](dashboards/x6.png)
-![i3](dashboards/i3.png)
-![i8](dashboards/i8.png)
+![M3](m3.png.png)
+![M5](m5.png.png)
+![X1](x1.png.png)
+![X3](x3.png.png)
+![X5](x5.png.png)
+![X6](x6.png.png)
+![i3](i3.png.png)
+![i8](i8.png.png)
 
 ## 2. 📝 Executive Summary & Project Context
 
@@ -38,8 +37,6 @@ An interactive Power BI report with a poster-style design inspired by car poster
 
 A Sales table (fact) is linked to a Models table (dimension) through the Model column. The Models table stores the title, description and image links used by each page.
 
-![Data Model](dashboards/data_model.png)
-
 ## 5. 🛠️ DAX & Technical Design
 
 * Dynamic measures for the model title, description and images, driven by the selected model
@@ -51,9 +48,7 @@ Tools: Power BI, DAX
 
 ## 📂 Repository Contents
 
-* `dashboards/`: Screenshots of all dashboard pages and the data model.
-* `cars/`: Images used by the report.
-* `BMW_Sales_Poster_v4.xlsx`: Sample dataset.
+* PNG files: Screenshots of all dashboard pages.
 * `README.md`: Project summary and documentation.
 
 ## ⚖️ Disclaimer
