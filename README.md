@@ -1,19 +1,17 @@
-# 🚗 BMW Sales Dashboard | Power BI Portfolio Project
-
 ## 1. 📊 Interactive Dashboard Overview
 
-![Overview](overview.png.png)
+![Overview](dashboards/overview.png)
 
 Model pages:
 
-![M3](m3.png.png)
-![M5](m5.png.png)
-![X1](x1.png.png)
-![X3](x3.png.png)
-![X5](x5.png.png)
-![X6](x6.png.png)
-![i3](i3.png.png)
-![i8](i8.png.png)
+![M3](dashboards/m3.png)
+![M5](dashboards/m5.png)
+![X1](dashboards/x1.png)
+![X3](dashboards/x3.png)
+![X5](dashboards/x5.png)
+![X6](dashboards/x6.png)
+![i3](dashboards/i3.png)
+![i8](dashboards/i8.png)
 
 ## 2. 📝 Executive Summary & Project Context
 
